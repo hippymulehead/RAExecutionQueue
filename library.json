@@ -1,0 +1,20 @@
+{
+    "name": "RAExecutionQueue",
+    "frameworks": "Arduino",
+    "keywords": "queue,rtos",
+    "description": "A Pseudo RTOS style execution queue for the Ardiono Platform",
+    "version": "1.0.0",
+    "url": "https://github.com/hippymulehead/RAExecutionQueue",
+    "authors":
+    [
+        {
+            "name": "Michael Romans",
+            "maintainer": true
+        }
+    ],
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/hippymulehead/RAExecutionQueue.git"
+    }
+}
